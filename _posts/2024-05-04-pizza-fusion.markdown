@@ -7,7 +7,7 @@ categories: jekyll mat
 
 ![Tux, the Linux mascot](/poud/assets/images/pizzabilde.jpg)
 
-Hei, velkommen til "den andre oppskrift".
+Hei, og velkommen til den første oppskriften vår.
 Vi lagde denne et par dager siden og Olea syntes den var "den beste pizzaen" hun hadde spist, så da må vi vel dele denne oppskriften eller hva?
 
 Start med å skaff deg en god pizzabunn. Vi fant en ganske god en kalt "langtidshevet PINSA" fra Eldorado. Deretter kokte jeg opp litt knuste mutti tomater med en god dash olivenolje et par minutter til den ble litt tjukkere. Jeg rev litt Norvegia ost, ikke spesielt smakful men den gjorde susen.
