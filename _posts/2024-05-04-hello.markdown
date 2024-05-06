@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Fusion pizza - Første matoppskrift!"
+title: "ANDRE matoppskrift!"
 date: 2024-05-05 21:52:07 +0200
 categories: jekyll mat
 ---
 
-Hello
-![Pizza](/assets/pizzabilde.jpg)
+NEW FRIENDS HERE
+
+![Tux, the Linux mascot](/assets/pizzabilde.jpg)
